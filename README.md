@@ -9,7 +9,7 @@ namhung34.info@gmail.com
 
 Co-author 
 
-* Ly Thach Hao https://github.com/lithhao/lithhao.git
+* Ly Thach Hao [lithhao](https://github.com/lithhao)
 * Le Phat Tai
 * Mai Quoc Vinh
 * Mai Nhut Hao
